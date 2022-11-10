@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 💫About Me :
 
-😄 Im a junior software developer and code enthusiast.
-⚡ I'm currently working on a private library and my personal WebSite.
-🌱 I'm about to start my computer systems career.
+😄 Im a junior software developer and code enthusiast.  
+⚡ I'm currently working on a private library and my personal WebSite.  
+🌱 I'm about to start my computer systems career.  
 🤔 Fun fact: When i was a child i always thought that th moustache came out from the nose.
 
 ## 🌐Socials
